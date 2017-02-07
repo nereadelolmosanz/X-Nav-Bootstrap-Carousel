@@ -24,4 +24,4 @@ web resultante.
 
 
 
-[Try me] (nereadelolmosanz.github.io/X-NAV-Bootstrap-Carousel)
+[Try me] (http://nereadelolmosanz.CursosWeb.io/X-NAV-Bootstrap-Carousel)
